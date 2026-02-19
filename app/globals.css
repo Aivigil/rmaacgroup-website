@@ -1,0 +1,284 @@
+@import "tailwindcss";
+
+html,
+body,
+:root {
+  height: 100%;
+}
+
+/* Font synthesis for Italiana font */
+.italiana-bold {
+  font-synthesis: weight;
+  text-shadow: 0 0 1px currentColor, 0 0 1px currentColor;
+  letter-spacing: -0.01em;
+  font-weight: 900 !important;
+  -webkit-text-stroke: 0.2px;
+  filter: brightness(1.2);
+}
+
+/* Dropdown hover styles */
+.group:hover .group-hover\:visible {
+  visibility: visible;
+}
+
+.group:hover .group-hover\:opacity-100 {
+  opacity: 1;
+}
+
+/* Add delay to dropdown disappearance */
+.group .invisible {
+  transition-delay: 0s;
+}
+
+.group:hover .invisible {
+  transition-delay: 0.1s;
+}
+
+/* Enhanced dropdown styling */
+.dropdown-menu {
+  transform: translateY(10px);
+  transition: transform 0.3s ease, opacity 0.3s ease, visibility 0s linear 0.3s;
+}
+
+.group:hover .dropdown-menu {
+  transform: translateY(0);
+  transition: transform 0.3s ease, opacity 0.3s ease, visibility 0s linear;
+}
+
+/* Custom animations for About RMAAC section */
+@keyframes slide-left {
+  0% {
+    transform: translateX(-100vw);
+  }
+  25% {
+    transform: translateX(0);
+  }
+  75% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100vw);
+  }
+}
+
+@keyframes slide-right {
+  0% {
+    transform: translateX(100vw);
+  }
+  25% {
+    transform: translateX(0);
+  }
+  75% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(100vw);
+  }
+}
+
+.animate-slide-left {
+  animation: slide-left 20s infinite ease-in-out;
+}
+
+.animate-slide-right {
+  animation: slide-right 20s infinite ease-in-out;
+}
+
+/* Marquee animation for services section */
+@keyframes marquee {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.animate-marquee {
+  animation: marquee 10s linear infinite;
+}
+
+/* Service rotation animations */
+@keyframes service-rotate {
+  0%,
+  20% {
+    opacity: 1;
+    z-index: 30;
+  }
+  25%,
+  95% {
+    opacity: 0;
+    z-index: 10;
+  }
+  100% {
+    opacity: 1;
+    z-index: 30;
+  }
+}
+
+.animate-service-rotate-1 {
+  animation: service-rotate 9s infinite;
+  animation-delay: 0s;
+}
+
+.animate-service-rotate-2 {
+  animation: service-rotate 9s infinite;
+  animation-delay: 3s;
+}
+
+.animate-service-rotate-3 {
+  animation: service-rotate 9s infinite;
+  animation-delay: 6s;
+}
+
+/* Scroll arrow animation */
+@keyframes scroll-arrow {
+  0% {
+    transform: translateY(-150%);
+    opacity: 0;
+  }
+  15% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  85% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(150%);
+    opacity: 0;
+  }
+}
+
+.animate-scroll-arrow {
+  animation: scroll-arrow 4s infinite ease-in-out;
+}
+
+/* About page title animation */
+@keyframes fade-in-up-out {
+  0% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  15% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  16% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  45% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  85% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Jelly bounce animation */
+@keyframes jelly-bounce {
+  0% {
+    transform: scale(1);
+  }
+  30% {
+    transform: scale(1.05, 0.95);
+  }
+  40% {
+    transform: scale(0.95, 1.05);
+  }
+  50% {
+    transform: scale(1.02, 0.98);
+  }
+  65% {
+    transform: scale(0.98, 1.02);
+  }
+  75% {
+    transform: scale(1.01, 0.99);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.animate-jelly-bounce {
+  animation: jelly-bounce 0.6s ease-out;
+}
+
+/* Infinite scroll animation for moving cards */
+@keyframes scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(calc(-50% - 1rem));
+  }
+}
+
+.animate-scroll {
+  animation: scroll var(--animation-duration, 40s)
+    var(--animation-direction, forwards) linear infinite;
+}
+
+/* Utility for scroll animations */
+.scroller {
+  will-change: transform;
+}
+
+/* Add animation for infinite moving cards */
+@keyframes slideInFromLeft {
+  0% {
+    transform: translateX(-20px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideInFromRight {
+  0% {
+    transform: translateX(20px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+/* Fade in up animation for approach page */
+@keyframes fadeInUp {
+  0% {
+    transform: translateY(30px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 1s ease-out forwards;
+}
+
+.delay-300 {
+  animation-delay: 0.3s;
+}
+
+.delay-500 {
+  animation-delay: 0.5s;
+}
+
+.delay-700 {
+  animation-delay: 0.7s;
+}

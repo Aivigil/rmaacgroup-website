@@ -1,0 +1,29 @@
+<svg width="529" height="550" viewBox="0 0 529 550" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g clip-path="url(#clip0_390_1682)">
+<rect width="529" height="550" fill="url(#paint0_linear_390_1682)"/>
+<rect x="56" y="-83.8105" width="418" height="235.125" fill="url(#pattern0_390_1682)"/>
+<rect x="56" y="398.686" width="418" height="235.125" fill="url(#pattern1_390_1682)"/>
+<rect x="56" y="157.438" width="418" height="235.125" fill="url(#pattern2_390_1682)"/>
+</g>
+<defs>
+<pattern id="pattern0_390_1682" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_390_1682" transform="scale(0.000244141 0.000434028)"/>
+</pattern>
+<pattern id="pattern1_390_1682" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_390_1682" transform="scale(0.000244141 0.000434028)"/>
+</pattern>
+<pattern id="pattern2_390_1682" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2_390_1682" transform="scale(0.000244141 0.000434028)"/>
+</pattern>
+<linearGradient id="paint0_linear_390_1682" x1="0" y1="275" x2="529" y2="275" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1488CC"/>
+<stop offset="1" stop-color="#2B32B2"/>
+</linearGradient>
+<clipPath id="clip0_390_1682">
+<rect width="529" height="550" fill="white"/>
+</clipPath>
+<image id="image0_390_1682" width="4096" height="2304" preserveAspectRatio="none" xlink:href="./extracted/vividly-2_1.jpeg"/>
+<image id="image1_390_1682" width="4096" height="2304" preserveAspectRatio="none" xlink:href="./extracted/vividly-2_2.jpeg"/>
+<image id="image2_390_1682" width="4096" height="2304" preserveAspectRatio="none" xlink:href="./extracted/vividly-2_3.jpeg"/>
+</defs>
+</svg>

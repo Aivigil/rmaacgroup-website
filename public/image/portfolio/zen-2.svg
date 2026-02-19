@@ -1,0 +1,108 @@
+<svg width="529" height="550" viewBox="0 0 529 550" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g clip-path="url(#clip0_387_2070)">
+<rect width="529" height="550" fill="#212226"/>
+<g filter="url(#filter0_f_387_2070)">
+<rect x="407" y="414" width="63" height="110" fill="#69AD45"/>
+</g>
+<g filter="url(#filter1_f_387_2070)">
+<rect y="-36" width="63" height="110" fill="#69AD45"/>
+</g>
+<g style="mix-blend-mode:overlay" opacity="0.4" filter="url(#filter2_d_387_2070)">
+<rect width="1230" height="1230" transform="matrix(-1 0 0 1 1230 -680)" fill="url(#pattern0_387_2070)" shape-rendering="crispEdges"/>
+</g>
+<rect x="454.234" y="417.463" width="254.062" height="142.91" transform="rotate(-30 454.234 417.463)" fill="url(#pattern1_387_2070)"/>
+<rect x="-74.2695" y="26.0186" width="254.062" height="142.91" transform="rotate(-30 -74.2695 26.0186)" fill="url(#pattern2_387_2070)"/>
+<rect x="152.602" y="-104.963" width="254.062" height="142.91" transform="rotate(-30 152.602 -104.963)" fill="url(#pattern3_387_2070)"/>
+<rect x="-225.727" y="287.608" width="254.062" height="142.91" transform="rotate(-30 -225.727 287.608)" fill="url(#pattern4_387_2070)"/>
+<rect x="1.13672" y="156.626" width="254.062" height="142.91" transform="rotate(-30 1.13672 156.626)" fill="url(#pattern5_387_2070)"/>
+<rect x="228.004" y="25.6445" width="254.062" height="142.91" transform="rotate(-30 228.004 25.6445)" fill="url(#pattern6_387_2070)"/>
+<rect x="-150.32" y="418.215" width="254.062" height="142.91" transform="rotate(-30 -150.32 418.215)" fill="url(#pattern7_387_2070)"/>
+<rect x="76.543" y="287.233" width="254.062" height="142.91" transform="rotate(-30 76.543 287.233)" fill="url(#pattern8_387_2070)"/>
+<rect x="303.414" y="156.252" width="254.062" height="142.91" transform="rotate(-30 303.414 156.252)" fill="url(#pattern9_387_2070)"/>
+<rect x="-74.9141" y="548.824" width="254.062" height="142.91" transform="rotate(-30 -74.9141 548.824)" fill="url(#pattern10_387_2070)"/>
+<rect x="151.957" y="417.842" width="254.062" height="142.91" transform="rotate(-30 151.957 417.842)" fill="url(#pattern11_387_2070)"/>
+<rect x="378.82" y="286.86" width="254.062" height="142.91" transform="rotate(-30 378.82 286.86)" fill="url(#pattern12_387_2070)"/>
+<rect x="227.359" y="548.449" width="254.062" height="142.91" transform="rotate(-30 227.359 548.449)" fill="url(#pattern13_387_2070)"/>
+</g>
+<defs>
+<filter id="filter0_f_387_2070" x="207" y="214" width="463" height="510" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_387_2070"/>
+</filter>
+<filter id="filter1_f_387_2070" x="-200" y="-236" width="463" height="510" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_387_2070"/>
+</filter>
+<filter id="filter2_d_387_2070" x="-4" y="-680" width="1238" height="1238" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_387_2070"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_387_2070" result="shape"/>
+</filter>
+<pattern id="pattern0_387_2070" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_387_2070" transform="translate(0 0.0248779) scale(0.00087833)"/>
+</pattern>
+<pattern id="pattern1_387_2070" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_387_2070" transform="scale(0.000244141 0.000434028)"/>
+</pattern>
+<pattern id="pattern2_387_2070" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2_387_2070" transform="scale(0.000244141 0.000434028)"/>
+</pattern>
+<pattern id="pattern3_387_2070" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3_387_2070" transform="scale(0.000244141 0.000434028)"/>
+</pattern>
+<pattern id="pattern4_387_2070" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4_387_2070" transform="scale(0.000244141 0.000434028)"/>
+</pattern>
+<pattern id="pattern5_387_2070" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image5_387_2070" transform="scale(0.000244141 0.000434028)"/>
+</pattern>
+<pattern id="pattern6_387_2070" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image6_387_2070" transform="scale(0.000244141 0.000434028)"/>
+</pattern>
+<pattern id="pattern7_387_2070" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image7_387_2070" transform="scale(0.000244141 0.000434028)"/>
+</pattern>
+<pattern id="pattern8_387_2070" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image8_387_2070" transform="scale(0.000244141 0.000434028)"/>
+</pattern>
+<pattern id="pattern9_387_2070" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image9_387_2070" transform="scale(0.000244141 0.000434028)"/>
+</pattern>
+<pattern id="pattern10_387_2070" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image10_387_2070" transform="scale(0.000244141 0.000434028)"/>
+</pattern>
+<pattern id="pattern11_387_2070" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image11_387_2070" transform="scale(0.000244141 0.000434028)"/>
+</pattern>
+<pattern id="pattern12_387_2070" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image12_387_2070" transform="scale(0.000244141 0.000434028)"/>
+</pattern>
+<pattern id="pattern13_387_2070" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image13_387_2070" transform="scale(0.000244141 0.000434028)"/>
+</pattern>
+<clipPath id="clip0_387_2070">
+<rect width="529" height="550" fill="white"/>
+</clipPath>
+<image id="image0_387_2070" width="2101" height="1201" preserveAspectRatio="none" xlink:href="./extracted/zen-2_1.png"/>
+<image id="image1_387_2070" width="4096" height="2304" preserveAspectRatio="none" xlink:href="./extracted/zen-2_2.jpeg"/>
+<image id="image2_387_2070" width="4096" height="2304" preserveAspectRatio="none" xlink:href="./extracted/zen-2_3.jpeg"/>
+<image id="image3_387_2070" width="4096" height="2304" preserveAspectRatio="none" xlink:href="./extracted/zen-2_4.jpeg"/>
+<image id="image4_387_2070" width="4096" height="2304" preserveAspectRatio="none" xlink:href="./extracted/zen-2_5.jpeg"/>
+<image id="image5_387_2070" width="4096" height="2304" preserveAspectRatio="none" xlink:href="./extracted/zen-2_6.jpeg"/>
+<image id="image6_387_2070" width="4096" height="2304" preserveAspectRatio="none" xlink:href="./extracted/zen-2_7.jpeg"/>
+<image id="image7_387_2070" width="4096" height="2304" preserveAspectRatio="none" xlink:href="./extracted/zen-2_8.jpeg"/>
+<image id="image8_387_2070" width="4096" height="2304" preserveAspectRatio="none" xlink:href="./extracted/zen-2_9.jpeg"/>
+<image id="image9_387_2070" width="4096" height="2304" preserveAspectRatio="none" xlink:href="./extracted/zen-2_10.jpeg"/>
+<image id="image10_387_2070" width="4096" height="2304" preserveAspectRatio="none" xlink:href="./extracted/zen-2_11.jpeg"/>
+<image id="image11_387_2070" width="4096" height="2304" preserveAspectRatio="none" xlink:href="./extracted/zen-2_12.jpeg"/>
+<image id="image12_387_2070" width="4096" height="2304" preserveAspectRatio="none" xlink:href="./extracted/zen-2_13.jpeg"/>
+<image id="image13_387_2070" width="4096" height="2304" preserveAspectRatio="none" xlink:href="./extracted/zen-2_14.jpeg"/>
+</defs>
+</svg>
